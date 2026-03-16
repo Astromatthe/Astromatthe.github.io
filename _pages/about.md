@@ -1,18 +1,18 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Student, <a href='https://navlab.stanford.edu'>Navigation and Autonomous Vehicles (NAV) Lab</a>, <a href='https://www.stanford.edu'>Stanford University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Matthias_AirZeroG_2025.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>496 Lomita Mall</p>
     <p>Stanford, CA 94305</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -25,4 +25,4 @@ Matthias Kura is a Ph.D. student in the Department of Aeronautics at Stanford Un
 
 Prior to Stanford, Matthias completed an B.Sc. in Mechanical Engineering and an M.Sc. in Aerospace at the Technical University of Munich. During his master's, he collaborated with the Low-Gravity Science and Technology Lab at Georgia Tech to investigate a novel magnetohydrodynamic vortex photobioreactor for microalgae cultivation. During this time, he led the design and development of the Magnetohydrodynamic Vortex-Inducing Photobioreactor Experiment (MVIPER), which participated in the 87th ESA/Novespace parabolic flight campaign in September 2025 as one of two student teams selected for the ESA Academy Experiments Programme 2024-2025.
 
-Matthias has participated in the 2023 AIAA Undergraduate Team Space Design Competition and the Space Station Design Workshop 2024, where he was the mission analyst for crewed Martian and Lunar missions. In addition, he previously worked on satellite simulators at the Galileo Competence Center at the German Aerospace Center.
+Matthias has participated in the 2023 AIAA Undergraduate Team Space Design Competition and the Space Station Design Workshop 2024, where he was the mission analyst for crewed Martian and Lunar missions. In addition, he previously worked on satellite simulators at the Galileo Competence Center at the German Aerospace Center. 123
