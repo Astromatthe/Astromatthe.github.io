@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Astromatthe.github.io/al-folio/sitemap.xml
+Sitemap: https://Astromatthe.github.io/sitemap.xml
