@@ -25,7 +25,7 @@ but rather a curated checklist of some of the things that I have come across.
 - imrpoved caption formatting: [caption](https://ctan.org/pkg/caption)
 - landscape mode: [pdflscape](https://ctan.org/pkg/pdflscape)
 - robust URLs in text and footnotes: [url](https://ctan.org/pkg/url)
-- hyperlinks and cross-references[hyperref](https://ctan.org/pkg/hyperref)
+- hyperlinks and cross-references: [hyperref](https://ctan.org/pkg/hyperref)
 - better footnotes: [footmisc](https://ctan.org/pkg/footmisc)
 - advanced math environments: [amsmath](https://ctan.org/pkg/amsmath)
 - even more curly letters: [BOONDOX-uprscr]()
@@ -108,13 +108,14 @@ Recommended plotting tool: [Veusz](https://veusz.github.io).
 ## Writing Style
 
 1. Use American English.
-2. Use the Oxford comma in lists of three or more items.
-3. Keep references in the same line as the referenced text using non-breaking
+2. Introduce one concept per sentence at the beginning of the sentence. This helps the reader. Also, try to introduce only one larger concept per paragraph at the beginning of the paragraph.
+3. Use the Oxford comma in lists of three or more items.
+4. Keep references in the same line as the referenced text using non-breaking
    spaces (for example `Figure~\ref{...}` and `text~\cite{...}`).
-4. Use grammar tools as support (for example Grammarly) but still proofread
+5. Use grammar tools as support (for example Grammarly) but still proofread
    manually.
-5. Choose a tense strategy (preferably present tense for technical description)
+6. Choose a tense strategy (preferably present tense for technical description)
    and stay consistent.
-6. Avoid contractions in formal technical writing (for example "don't", "won't").
-7. Apply consistent capitalization rules in titles and descriptive captions.
+7. Avoid contractions in formal technical writing (for example "don't", "won't").
+8. Apply consistent capitalization rules in titles and descriptive captions.
    Helpful tool: [Capitalize My Title](https://capitalizemytitle.com).
