@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-06-10'
 papers:
   AltpsPoAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -9,12 +9,16 @@ papers:
     citations: 1
     title: Diamagnetic Phase Separation for Microalgae Photo-bioreactors in Microgravity
     year: '2025'
+  AltpsPoAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Investigation of an Alternating Current Magnetohydrodynamic Drive Demonstrator for a Microgravity Photobioreactor Concept
+    year: '2026'
   AltpsPoAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Analytical, Numerical, and Experimental Investigation of a Magnetohydrodynamic Vortex Photobioreactor
     year: '2025'
   AltpsPoAAAAJ:d1gkVwhDpl0C:
-    citations: 1
+    citations: 2
     title: Magnetohydrodynamic Vortex Photobioreactor Concept for Microalgae Cultivation in Space
     year: '2025'
   AltpsPoAAAAJ:qjMakFHDy7sC:
