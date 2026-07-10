@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-10'
 papers:
   AltpsPoAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -30,6 +30,6 @@ papers:
     title: Tradespace Analysis and Conceptual Design for a Lunar Navigation and Communication Constellation
     year: '2024'
   AltpsPoAAAAJ:u5HHmVD_uO8C:
-    citations: 3
+    citations: 4
     title: Magnetic phase separation for microalgae applications in microgravity
     year: '2024'
