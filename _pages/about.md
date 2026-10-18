@@ -12,7 +12,7 @@ profile:
     <p>ESA ESTEC</p>
     <p>Keplerlaan 1</p>
     <p>2201 AZ Noordwijk</p>
-    <p>2201 AZ Noordwijk</p>
+    <p>The Netherlands</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
