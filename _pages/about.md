@@ -8,7 +8,7 @@ profile:
   align: right
   image: Matthias_AirZeroG_2025.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>ESA ESTEC</p>
     <p>Keplerlaan 1</p>
     <p>2201 AZ Noordwijk</p>
